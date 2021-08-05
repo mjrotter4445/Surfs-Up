@@ -1,4 +1,3 @@
-# Movie-ETL
 # Surfs-Up Weather Analysis 
 *for an Exciting Business Venture called the Surf n' Shake Shop in Hawaii*
 
@@ -21,14 +20,14 @@ enough to ensure we have good conditions year-round.
 The analysis focuses on the temperature and rainfall from six different weather stations.
 On Oahu, Hawaii from 2010-2017 and June and December, specifically.  
 
-The first 2 charts show the statistics for June and December – togs  
+The first 2 charts show the statistics for June and December â€“ togs  
 
 1.	**Data**
      -	There are less data points for December (1517 data points) than June (1700 data points).
 2.	**Dispersion of the data**
      -	Temperatures are more spread out in December 
-     -	June’s mean is 79.94 F and the median is 75.00 F.
-     -	December’s mean is 71.04 F and median is 71.0 F.
+     -	Juneâ€™s mean is 79.94 F and the median is 75.00 F.
+     -	Decemberâ€™s mean is 71.04 F and median is 71.0 F.
 <p align="center">
    <img width="300" height="300" src="https://github.com/mjrotter4445/Working-File/blob/main/Graphics/fig%201%20temps.png">
 </p>   
@@ -44,8 +43,8 @@ On Oahu, Hawaii from 2010-2017 and June and December specifically.
      -	There are less data points for December again (1405 data points) than June (1574 data points).
 2.	**Dispersion of the data**
      -	Rainfall quantity is more spread out in December than June.  
-     -	June’s mean is 0.13 inches and the median is 0.02 inches.
-     -	December’s mean is 0.21 and median is 0.03.
+     -	Juneâ€™s mean is 0.13 inches and the median is 0.02 inches.
+     -	Decemberâ€™s mean is 0.21 and median is 0.03.
      -	Maximum rainfall in December is 6.42 inches and 4.43 in June. 
      -	Minimum rainfall in December is 0 inches and 0 inches in June too.   
  <p align="center">
