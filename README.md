@@ -2,7 +2,7 @@
 *for an Exciting Business Venture called the Surf n' Shake Shop in Hawaii*
 
 ## Project Overview
-This analysis project requires a quick build, quick turnaround data frame that pulls information from available Hawaiin Weather sites.  
+This analysis project requires a quick build, quick turnaround data frame that pulls information from available Hawaiian Weather sites.  
 
 ### Purpose  
 The purpose of this analysis is to help W. Avy, a famous surfer and investor make important business decisions about opening an ice cream 
