@@ -93,7 +93,7 @@ The next **Line Chart** really gives us a better idea of seasonal Precipitation 
 from this compilation of summaries and charts.  There was a year in 2010 where above average rainfall did occur, but after that timeframe, 
 precipitation leveled out and was very consistent in the years 2011-2017.  
 <p align="center">
-   <img width="700" height="300" src="https://github.com/mjrotter4445/Working-File/blob/main/Graphics/last%20and%20best%20chart%20avg%20precip%20line.png">
+   <img width="700" height="300" src="https://github.com/mjrotter4445/Surfs-Up/blob/main/Graphics/last%20and%20best%20chart%20avg%20precip%20line.png">
 </p>   
 <p align="center">
 A "Big Picture" view of the data over time for better decision making 
