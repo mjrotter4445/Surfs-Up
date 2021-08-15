@@ -75,7 +75,7 @@ Box and Whisker plot showing June and December Temperature Statistics
 The second **box and whiskers chart** is impacted by the outliers.    Additional information is needed to really get the the facts.  
 
 <p align="center">
-   <img width="400" height="350" src="https://github.com/mjrotter4445/Working-File/blob/main/Graphics/fig_3_precip_box_whisker.png">
+   <img width="400" height="350" src="https://github.com/mjrotter4445/Surfs-Up/blob/main/Graphics/fig_3_precip_box_whisker.png">
 </p>   
 <p align="center">
 Box and Whisker plot showing June and December Precipitation Statistics 
