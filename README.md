@@ -66,7 +66,7 @@ The analysis focuses on the temperature and rainfall from six different weather 
 The first **box and whiskers chart** shows how the mild and steady temperatures are year-round. There is very little
 distribution of data and very few outliers.   
 <p align="center">
-   <img width="400" height="350" src="https://github.com/mjrotter4445/Working-File/blob/main/Graphics/fig_4%20temps_box_whisker.png">
+   <img width="400" height="350" src="https://github.com/mjrotter4445/Surfs-Up/blob/main/Graphics/fig_4%20temps_box_whisker.png">
 </p>   
 <p align="center">
 Box and Whisker plot showing June and December Temperature Statistics 
