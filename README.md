@@ -48,7 +48,7 @@ On Oahu, Hawaii from 2010-2017 and June and December specifically.
      -	Maximum rainfall in December is 6.42 inches and 4.43 in June. 
      -	Minimum rainfall in December is 0 inches and 0 inches in June too.   
  <p align="center">
-   <img width="300" height="300" src="https://github.com/mjrotter4445/Working-File/blob/main/Graphics/fig%202%20prcpt.png">
+   <img width="300" height="300" src="https://github.com/mjrotter4445/Surfs-Up/blob/main/Graphics/fig%202%20prcpt.png">
 </p>   
 <p align="center">
 Tables showing June and December Precipitation Statistics 
