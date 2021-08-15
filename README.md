@@ -83,7 +83,7 @@ Box and Whisker plot showing June and December Precipitation Statistics
 
 The next **Data Frame Summaries** represent the AVERAGE Precipitation for both June and December, and begin to give us a clearer picture.      
 <p align="center">
-   <img width="400" height="350" src="https://github.com/mjrotter4445/Working-File/blob/main/Graphics/fig%20second%20to%20last.png">
+   <img width="400" height="350" src="https://github.com/mjrotter4445/Surfs-Up/blob/main/Graphics/fig%20second%20to%20last.png">
 </p>   
 <p align="center">
 Look further into Averages of Rainfall for June and December  
