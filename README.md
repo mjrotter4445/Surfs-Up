@@ -1,4 +1,4 @@
-# Surfs-Up Weather Analysis 
+# Surfs-Up Weather Analysis :ocean::ocean::ocean::ocean::ocean:
 *for an Exciting Business Venture called the Surf n' Shake Shop in Hawaii*
 <p align="center">
    <img width="500" height="300" src="https://github.com/mjrotter4445/Surfs-Up/blob/main/Graphics/surfboardart.png">
