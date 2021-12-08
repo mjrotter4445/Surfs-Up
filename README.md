@@ -23,7 +23,7 @@ enough to ensure we have good conditions year-round.
 The analysis focuses on the temperature and rainfall from six different weather stations.
 On Oahu, Hawaii from 2010-2017 and June and December, specifically.  
 
-The first 2 charts show the statistics for June and December – togs  
+The first 2 charts show the statistics for June and December – togs   
 
 1.	**Data**
      -	There are less data points for December (1517 data points) than June (1700 data points).
