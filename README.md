@@ -15,7 +15,7 @@ there is the right balance of warm temperatures and sunny days throughout the ye
 based on temperature and rainfall for the past 7 years from 2010-2017, specifically June and December. These 2 months are far apart 
 enough to ensure we have good conditions year-round.   
 
-   -  The analysis consists of 2 parts:   
+      -  The analysis consists of 2 parts:   
       - Temperature Statistics analysis for June and December for 2010-2017.
       - Rainfall analysis for June and December for 2010-2017.
 
